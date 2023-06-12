@@ -38,7 +38,7 @@ And of course you can orchestrate all these activities using the CI/CD tool of y
 Useful links:
 -   [Customer Management microservice showcase](https://github.com/staillansag/msr-customer-management-v2)
 -   [Building an integration microservice from A to Z with webMethods and Kubernetes](https://tech.forums.softwareag.com/t/building-an-integration-microservice-from-a-to-z-with-webmethods-and-kubernetes/267171/1)
--   [webMethods Product Deep Dive: Microservices Runtime and Containers | IUG 2022](https://tech.forums.softwareag.com/t/webmethods-product-deep-dive-microservices-runtime-and-containers-iug-2022/267502)
+-   [webMethods Product Deep Dive: Microservices Runtime and Containers IUG 2022](https://tech.forums.softwareag.com/t/webmethods-product-deep-dive-microservices-runtime-and-containers-iug-2022/267502)
 
 ### Serverless and hybrid integrations
 
