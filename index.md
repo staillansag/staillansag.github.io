@@ -5,14 +5,15 @@ description: Collection of useful information items and links
 ---
 
 Find here some useful information items and links regarding Software AG and its products.
+This page focuses on products related APIs, Applicative Integration and Microservices.
 
-## Serverless and hybrid integrations
-
-
-## Integration microservices
+### Serverless and hybrid integrations
 
 
-## API Management
+### Integration microservices
+
+
+### API Management
 
 
 
