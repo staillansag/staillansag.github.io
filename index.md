@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Stéphane Tailland @ Software AG
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: Collection of useful information items and links
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
