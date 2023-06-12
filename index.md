@@ -9,8 +9,7 @@ This page focuses on products related APIs, Applicative Integration and Microser
 
 ### Integration microservices
 
-Over the last few years, webMethods has undergone a transformation to become an integration microservice platform.
-
+Over the last few years, webMethods has undergone a transformation to become an integration microservice platform.  
 You still get the power of the good old webMethods ESB platform: connectivity to virtually anything, standardized low-code integrations, high performance, just to name a few.
 
 But you can now implement and deploy your integration in lightweight containers, and you can do it according to the DevOps practices.
