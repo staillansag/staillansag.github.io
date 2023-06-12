@@ -4,6 +4,19 @@ title: Stéphane Tailland @ Software AG
 description: Collection of useful information items and links
 ---
 
+Find here some useful information items and links regarding Software AG and its products.
+
+## Serverless and hybrid integrations
+
+
+## Integration microservices
+
+
+## API Management
+
+
+
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
